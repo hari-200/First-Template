@@ -1,0 +1,189 @@
+.tag{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+}
+.center{
+    width: 3%;
+    height: 50px;
+    background-color: black;
+    margin: 0 auto;
+    font-size: x-large;
+}
+.object{
+    background-color:black;
+    width:60% ;
+    height:200px;
+    margin: 0 auto;
+    border-top: 100px;
+}
+.tree{
+    background-color: black;
+    width: 100%;
+    height: 700px;
+}
+.leaves{
+    background-color: black;
+    width: 80%;
+    height: 700px;
+    margin: 0 auto;
+}
+.trunk{
+    background-color: white;
+    width: 45%;
+    height: 700px;
+    float: left;
+}
+.root{
+    background-color: rgb(225,199, 200);
+    width: 45%;
+    height: 700px;
+    float: right;
+    border-left: 40px;
+}
+.contain{
+    background-color:black ;
+    width:100%;
+    height:300px ;
+}
+.animal{
+        background-color:black ;
+        width:80%;
+        height:300px ;
+        margin: 0 auto;
+}
+.sun{
+    background-color:black ;
+    width:45%;
+    height:300px ;
+    float: left;
+}
+.moon{
+    background-color:black ;
+    width:45%;
+    height:300px ;
+    float: right;
+}
+.operator{
+    background-color:black ;
+    width:100%;
+    height:700px ;
+}
+.boolean{
+    background-color:black ;
+    width:80%;
+    height:50px ;
+    margin: 0 auto;
+}
+.state{
+    background-color:black ;
+    width:80%;
+    height:300px ;
+    margin: 0 auto;
+}
+.intial{
+    background-color:black ;
+    width:30%;
+    height:300px ;
+    float: left;
+    margin-right:10px ;
+}
+.present{
+    background-color:black;
+    width:30%;
+    height:300px ;
+    float: left;
+    margin-right:10px ;
+}
+.final{
+    background-color:black ;
+    width:30%;
+    height:300px ;
+    float: left;
+    margin-left: 92px;
+}
+.word{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+.letter{
+    background-color: black;
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+}
+.conso{
+    background-color: black;
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+.vow{
+    background-color: black;
+    width: 35%;
+    height: 100px;
+    float: left;
+}
+.reg{
+    background-color: black;
+    width: 35%;
+    height: 100px;
+    float: left;
+}
+.cen{
+    background-color:black ;
+    width: 100%;
+    height: 200px;
+}
+.tr{
+    background-color:black ;
+    width: 30%;
+    height: 200px;
+    float: left;
+}
+.re{
+    background-color:black ;
+    width: 35%;
+    height: 200px;
+    float: left;
+}
+.sq{
+    background-color:black ;
+    width: 35%;
+    height: 200px;
+    float: left;
+}
+.grd{
+    background-color:black ;
+    width: 100%;
+    height: 250px;
+}
+.dis{
+    background-color:black ;
+    width: 80%;
+    height: 250px;
+    margin: 0 auto;
+}
+.vis{
+    background-color:black;
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+.slr{
+    background-color:black;
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
